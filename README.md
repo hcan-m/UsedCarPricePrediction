@@ -1,21 +1,20 @@
 # usedcarpriceprediction
 
-autos.rar contains raw data\
-large_ds_ml_project.ipynb --- all codes in Jupyter Notebook\
-large_ds_ml_project.html --- html print of Jupyter Notebook
+Used Car Price Prediction Analysis
+Huseyin Can Minareci & Noam Shmuel
 
 Data available at: 
 
 https://www.kaggle.com/orgesleka/used-cars-database
 https://github.com/hcan-m/usedcarpriceprediction/raw/master/autos.rar
 
-Warning: Running all codes in notebook takes 2-3 hours.\
-large_ds_ml_project.ipynb --- all codes in Jupyter Notebook\
-large_ds_ml_project.html --- html print of Jupyter Notebook\
+Huseyin Can Minareci - Noam Shmuel.pdf --- pdf print of Jupyter Notebook
+Huseyin Can Minareci - Noam Shmuel.html --- html print of Jupyter Notebook
+Huseyin Can Minareci - Noam Shmuel.ipynb  --- all codes in Jupyter Notebook
 presentation.pptx --- presentation
+Warning: Running all codes in notebook takes around 2-3 hours.
 
 
-Used Car Price Prediction Analysis
 
 Summary
 
