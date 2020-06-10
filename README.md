@@ -1,7 +1,7 @@
 # usedcarpriceprediction
 
-autos.rar contains raw data
-large_ds_ml_project.ipynb --- all codes in Jupyter Notebook
+autos.rar contains raw data\
+large_ds_ml_project.ipynb --- all codes in Jupyter Notebook\
 large_ds_ml_project.html --- html print of Jupyter Notebook
 
 
