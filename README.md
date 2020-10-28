@@ -1,7 +1,7 @@
 # Used Car Price Prediction
 
 Used Car Price Prediction Analysis\
-Huseyin Can Minareci & Noam Shmuel
+Huseyin Can Minareci
 
 Data available at: 
 
