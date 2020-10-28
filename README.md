@@ -7,9 +7,9 @@ Data available at:
 
 https://www.kaggle.com/orgesleka/used-cars-database\
 
-Huseyin Can Minareci - Noam Shmuel.pdf --- pdf print of Jupyter Notebook\
-Huseyin Can Minareci - Noam Shmuel.html --- html print of Jupyter Notebook\
-Huseyin Can Minareci - Noam Shmuel.ipynb  --- all codes in Jupyter Notebook\
+Used Car Price Prediction Analysis.pdf --- pdf print of Jupyter Notebook\
+Used Car Price Prediction Analysis.html --- html print of Jupyter Notebook\
+Notebook.ipynb  --- all codes in Jupyter Notebook\
 presentation.pptx --- presentation\
 Warning: Running all codes in notebook takes around 2-3 hours.
 
